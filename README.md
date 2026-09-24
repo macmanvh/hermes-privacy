@@ -6,6 +6,6 @@ is no way for anyone else to sign in to it.
 
 This repository exists because Google requires a public homepage and privacy
 policy for any application that connects to a Gmail account, even one whose
-only user is its author. See [PRIVACY.md](PRIVACY.md).
+only user is its author. See [PRIVACY.md](PRIVACY.md) and [TERMS.md](TERMS.md).
 
 There is no software here. The application itself is private.
